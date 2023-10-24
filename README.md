@@ -3,7 +3,6 @@
 
 ![LLAMA Image](https://github.com/rania-hossam/LLAMA_FROM_SCRATCH_PYTORCH/raw/master/images/photo_6048509869687946819_x.jpg)
 
-![LlaMA]([image1.jpg](https://github.com/rania-hossam/LLAMA_FROM_SCRATCH_PYTORCH/blob/master/images/photo_6048509869687946820_x.jpg))
 
 ## Introduction
 
